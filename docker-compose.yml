@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  observability-backend:
+    image: observability-backend:v1
+    container_name: observability-backend
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - backend-logs-volume:/logs
+    restart: always
+
+volumes:
+  backend-logs-volume:
+  
