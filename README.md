@@ -1,7 +1,6 @@
 # Observability Lab
 ![image info](./images/1.png)
 ![image info](./images/2.png)
-# Observability Lab
 
 - **Goal** → apply observability on metrics and logs using prometheus, loki and grafana observability stack on a spring boot backend application.
 - **Application** **repository** → https://github.com/Mahmoud-Shereif/observability-lab.git
