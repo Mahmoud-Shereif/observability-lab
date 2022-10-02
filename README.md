@@ -4,7 +4,7 @@
 #
 - **Goal** → Apply observability on metrics and logs using prometheus, loki and grafana observability stack on a spring boot backend application.
 - **Application** **repository** → https://github.com/Mahmoud-Shereif/observability-lab.git
-- **Lab architecture** →
+- **Lab architecture** → https://lucid.app/lucidchart/b647222d-19a4-46e7-b48d-f0f5f7ca4727/edit?viewport_loc=-237%2C-114%2C2869%2C1412%2C0_0&invitationId=inv_67de04f0-4551-44e1-898f-735bbd1e0f3e#
 - **Guidelines**:
   - Implement the lab on your local machine.
   - Try if possible to split every service on a separate docker-compose file.
